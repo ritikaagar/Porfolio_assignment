@@ -1,0 +1,165 @@
+/*Style sheet for Portfolio*/
+
+*{
+	padding: 0px;
+	margin:0px;
+}
+
+#wrapper{
+	width: 895px;
+	background-color:#49363e; 
+	background: radial-gradient(gray, #49363e,black);
+	padding:0px;
+}
+
+#header{
+	width: 100%;
+	height: 60px;
+	font-family: Comic Sans MS;
+	background-color: #f2f2f2;
+	margin-bottom:20px;
+
+}
+
+h1{
+	color: black;
+	display: inline-block;
+	padding: 10px;
+	margin-right: 400px;
+
+}
+
+h2{
+	color: white;
+}
+
+#head{
+	display: inline-block;
+	font-family: "Times New Roman", Times, serif;
+/*	padding-bottom: 20px;
+*/	vertical-align: 10px;
+	}
+
+#mypic{
+	/*width:40%;*/
+	height: 250px;
+	border:5px solid gray;
+	margin-left: 15px;
+	display: inline-block; 
+
+	}
+
+#about{
+	display: inline-block;
+	color:black;
+	background-color:#f8f6f8;
+	width:450px; 
+	height: 250px;
+	vertical-align: top;
+	padding: 0px;
+	padding-bottom: 10px;
+	margin-left: 15px;
+
+}
+
+.boxtitle{
+	background: linear-gradient(lightgray, gray, lightgray);
+	padding: 5px;
+}
+
+#mode{
+	display: inline-block;
+	color:black;
+	background-color:#f8f6f8;
+	width:275px;
+	vertical-align: top; 
+	margin:15px;
+	margin-right: 0px;
+	height: 375px;
+	padding-bottom: 15px;
+	margin-bottom: 0px;
+
+}
+
+#contact{
+	display: inline-block;
+	color:black;
+	background-color:#f8f6f8;
+	width:275px; 
+	vertical-align: top;
+	margin: 15px;
+	margin-right: 0px;
+	height: 375px;
+	padding-bottom: 15px;
+	margin-bottom: 0px;
+
+}
+#fiveEleven{
+	display: inline-block;
+	color:black;
+	background-color:#f8f6f8;
+	width:275px; 
+	vertical-align: top;
+	margin: 15px;
+	margin-right: 0px;
+	padding-bottom: 15px;
+	margin-bottom: 0px;
+}
+
+p{
+	padding: 10px;
+
+}
+
+
+a{
+	padding: 10px;
+
+}
+
+.pic{
+	width:275px;
+}
+
+.technologies{
+	width:275px;
+	height: 175px;
+	background-color:#f8f6f8;
+	display: inline-block;
+	margin-left: 15px;
+	color: white;
+
+
+}
+.technologies img{
+	width: 15%;
+	padding: 5px;
+
+}
+
+#footer{
+	background-color: white;
+	text-align: center;
+	margin-top: 15px;
+
+}
+
+#footer a{
+	font-style: italic;
+}
+
+#footer img{
+	width: 15px;
+}
+
+button{
+	padding: 5px;
+	background-color: #355d4a;
+	color:white;
+	text-align: center;
+	border-radius: 10px;
+	border:solid black 1px;
+	display: block;
+	margin-left: 100px;
+}
+
